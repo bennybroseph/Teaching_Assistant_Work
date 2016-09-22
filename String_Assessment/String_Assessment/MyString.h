@@ -34,4 +34,5 @@ public:
 
 	void ReplaceSubString(MyString, MyString); //Replace a substring in the word with a new string
 };
+
 #endif // _MYSTRING_H_
